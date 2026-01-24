@@ -41,7 +41,7 @@ export default function Home() {
 
   return (
     <main style={styles.page}>
-      <h1 style={styles.title}>Internship Application Tracker</h1>
+      <h1 style={styles.title}>job Application Tracker</h1>
       <p style={styles.subtitle}>
         Track, update, and manage your internship applications professionally
       </p>
